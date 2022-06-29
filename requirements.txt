@@ -1,4 +1,4 @@
-python-telegram-bot==13.12
+python-telegram-bot==13.13
 botway.py==0.0.5
 cryptography==37.0.3
 PySocks==1.7.1
